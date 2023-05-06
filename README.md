@@ -1,5 +1,14 @@
 # xv6-labs-2020
 
+```
+
+git clone https://github.com/lshpku/riscv-docker.git
+
+cd riscv-docker
+
+docker build -t lshpku/riscv:64g_toolchain-v20200924_qemu-4.2.1 .
+```
+
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6). xv6 loosely follows the structure and style of v6,
 but is implemented for a modern RISC-V multiprocessor using ANSI C.
