@@ -1,6 +1,7 @@
 {
     "files.associations": {
-        "*.html": "html",
-        "types.h": "c"
+        "*.m": "matlab",
+        "__mutex_base": "c",
+        "memory": "c"
     }
 }
