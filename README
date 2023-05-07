@@ -35,6 +35,14 @@ then
 
 2.
 
+git clone lab repository
+
+https://github.com/Levan97/xv6-labs-2020.git
+
+or git clone empty repository
+
+git clone git://g.csail.mit.edu/xv6-labs-2020
+
 ```
 docker run -p 8848:8848 -v c/users/le/xv6-labs-2020:/mit6.s081/xv6-labs-2020 registry.cn-beijing.aliyuncs.com/calvin_haynes/mit6.s081:release-v1.3.1
 ```
